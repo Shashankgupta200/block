@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+#ui{
+    margin: 0;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+
+h1{
+    color: whitesmoke;
+}
+    
